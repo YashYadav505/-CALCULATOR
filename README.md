@@ -46,7 +46,7 @@ calculator-project/
 ---
 ## 📸 Project Preview
 
-![Calculator Poster](images/Smart Calculator Web App.png)
+![Calculator Poster](images/poster.png)
 
 
 ## ⚙️ How It Works
