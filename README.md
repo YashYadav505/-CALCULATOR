@@ -23,15 +23,7 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with s
 
 ---
 
-## 📸 Demo
 
-(Add screenshot here)
-
-```
-![Calculator UI](screenshot.png)
-```
-
----
 
 ## 📂 Project Structure
 
