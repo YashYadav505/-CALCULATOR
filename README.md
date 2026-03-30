@@ -31,8 +31,9 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with s
 calculator-project/
 │── index.html
 │── style.css
-│── script.js
+│── app.js
 │── README.md
+|__ images/Smart Calculator Web App.png
 ```
 
 ---
