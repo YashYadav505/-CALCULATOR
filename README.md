@@ -39,7 +39,7 @@ calculator-project/
 ---
 ## 📸 Project Preview
 
-![Calculator Poster](https://github.com/YashYadav505/-CALCULATOR/blob/main/images/Smart%20Calculator%20Web%20App.png?raw=true)
+<img src="images/Smart Calculator Web App.png" width="600"/>
 
 
 ## ⚙️ How It Works
